@@ -1,0 +1,2 @@
+# oneclick installer testing scripts
+
