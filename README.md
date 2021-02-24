@@ -10,7 +10,7 @@ To run, just run each script in order and wait for it to finish executing.  You 
 
 Most things are hardcoded (like new SSH port - 10 points to whomever correctly guesses the inspiration of picking that one ;) )
 
-I have run everything on a freshly configured machine running Ubuntu 20.04 and it works.  I have not tested it in any other way.
+I have run everything locally (not through ssh) on a freshly configured machine running Ubuntu 20.04 and it works (up until running the validator).  I have not tested it in any other way.
 
 There are many TODOs for things I think are worth enhancing.  There is much work past the TODOs to make this a production worthy tool.
 
