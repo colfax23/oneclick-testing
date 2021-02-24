@@ -4,8 +4,7 @@ This contains some scripts, based on Somer's guide, that configure up to getting
 
 https://someresat.medium.com/guide-to-staking-on-ethereum-2-0-ubuntu-pyrmont-lighthouse-a634d3b87393
 
-CAUTION - I just put these scripts together as a test to automate things, so user at your own risk
-These are *NOT* production worthy
+CAUTION - I just put these scripts together as a test to automate things, so user at your own risk.  These are *NOT* production worthy.
 
 To run, just run each script in order and wait for it to finish executing.  You might need to respond to some prompts along the way. Many scripts need to be run as root.
 
@@ -15,7 +14,7 @@ I have run everything on a freshly configured machine running Ubuntu 20.04 and i
 
 There are many TODOs for things I think are worth enhancing.  There is much work past the TODOs to make this a production worthy tool.
 
-Happy to have anyone use this as inspiration for their own tool, or for anyone to contribute here
+Happy to have anyone use this as inspiration for their own tool, or for anyone to contribute here.
 
 PRs open :)
 
