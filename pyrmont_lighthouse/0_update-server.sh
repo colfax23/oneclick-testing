@@ -8,4 +8,6 @@ sudo apt -y dist-upgrade && sudo apt -y autoremove
 sudo apt -y install curl
 
 # Reboot the server
+# TODO: figure out an elegant way to do this and reintegrate into the flow
 # sudo reboot
+echo "Please reboot manually now, then run next script"

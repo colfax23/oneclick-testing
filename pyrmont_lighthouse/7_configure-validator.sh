@@ -1,5 +1,9 @@
 #!/usr/bin/bash
 
+echo "THIS IS NOT TESTED - EXITING"
+exit 1
+
+
 sudo useradd --no-create-home --shell /bin/false lighthousevalidator
 sudo chown -R lighthousevalidator:lighthousevalidator /var/lib/lighthouse/validators
 

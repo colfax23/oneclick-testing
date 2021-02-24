@@ -18,6 +18,8 @@ sudo ufw allow 30303
 
 # for lighthouse
 sudo ufw allow 9000
+
+
+# TODO: handle prompts/verify the below programatically?
 sudo ufw enable
-# how to do the below programatically?
-# sudo ufw status numbered
+sudo ufw status numbered
